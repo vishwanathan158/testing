@@ -1,2 +1,6 @@
 this is edited now
+<<<<<<< HEAD
 this is local 2nd line
+=======
+this is 2nd line
+>>>>>>> 342826ca0a7580409b745b0e9a6f17e63cefc786
